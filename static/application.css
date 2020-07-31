@@ -63,11 +63,11 @@ textarea {
 #box1 {
 	padding: 5px;
 	text-align: center;
-	background: #c5a800; /*#00222b*/
+	background: #3f3f3f; /*#00222b*/
 }
 
 #box2 {
-	background: #b39900; /*#08323c*/
+	background: #2a2a2a; /*#08323c*/
 	font-size: 0px;
 	padding: 0px 5px;
 }
